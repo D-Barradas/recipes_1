@@ -5,3 +5,4 @@ This repository is to create a project about the guacamole
 ## instructions 
 - get avocado
 - get coriander 
+-get tomatoes and salt
